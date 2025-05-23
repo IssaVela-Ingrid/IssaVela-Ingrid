@@ -6,7 +6,7 @@
 Bienvenido a mi espacio en GitHub, donde obviamente, trabajamos con tecnología, particularmente sobre: Desarrollo de Aplicaciones Web, Configuración de Servidores Linux y Windows, Educación y todo lo que nos agrade.
 
 ## Sobre mi:
-*Trabajo en la enseñanza de tecnología desde 2009 dentro de academías de informática, en 2017 me acredité como facilitadora del desaparecido INSAFORP impartiendo cursos técnicos y en 2019 ingreso formalmente como docente en educación superior.*
+*Trabajo en la enseñanza de tecnología desde 2009 dentro de academías de informática, en 2017 me acredité como facilitadora del desaparecido INSAFORP impartiendo cursos técnicos y en 2019 ingreso formalmente como docente en educación superior manteniendome en este rubro a la fecha, en conjunto como mis actividades de soporte de sistemas, entre otras actividades.*
 
 | Docente de Educación Superior             | Administración de                                | Otros Intereses                           |
 |  :--------------------------------------- | :--------------------------------------- |  :--------------------------------------- |
