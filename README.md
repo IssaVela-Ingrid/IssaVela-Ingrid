@@ -4,13 +4,13 @@
 
 ## ¡Hola, soy IssaVela_Ingrid! ✨ 
 
-| Docente de Educación Superior             | Administración de:                                | Otros Intereses                           |
+| Docente de Educación Superior             | Administración de                                | Otros Intereses                           |
 |  :--------------------------------------- | :--------------------------------------- |  :--------------------------------------- |
 | - Redes de Datos                          | - Entornos Virtuales de Aprendizaje      | - Desarrollo de Aplicaciones Web con PHP, Laravel                   |
-| - Servidores en Plataformas Libres        | - Google Workspace                       |                                           |
-| - Servidores en Plataformas Propietarias  | - Redes Sociales                         | - Artesana                               |
+| - Servidores en Plataformas Libres        | - Google Workspace                       | - Artesana                                           |
+| - Servidores en Plataformas Propietarias  | - Redes Sociales                         |  - Turista Local    |                             |
 | - Sistemas Operativos Linux         | - Bases de Datos                      |                              |
-| - Diseño Gráfico Digital            | - Servidores Locales                  | - Turista Local    |
+| - Diseño Gráfico Digital            | - Servidores Locales                  | 
 | - Lenguaje de Marcado y Estilo      |                                       |                              |
 | - Seguridad Informática             |                                       |                              |
 | - Computación Aplicada              |                                       |                              |
