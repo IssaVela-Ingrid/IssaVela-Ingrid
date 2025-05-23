@@ -15,11 +15,11 @@
 - Computación Aplicada)
 - Soporte de Sistemas
 ###  Admin de: 
-Entornos Virtuales de Aprendizaje
-Google Workspace
-Redes Sociales
-Bases de Datos
-Servidores Locales
+- Entornos Virtuales de Aprendizaje
+- Google Workspace
+- Redes Sociales
+- Bases de Datos
+- Servidores Locales
 ### Desarrolladora
 ### Artesana
 ### Turista Local
