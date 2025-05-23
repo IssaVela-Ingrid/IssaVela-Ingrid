@@ -5,7 +5,7 @@
 ## ¡Hola, soy IssaVela_Ingrid! ✨ 
 
 | Docente de Educación Superior       | Admin de:                             | Otros Intereses              |
-| :---------------------------------- | :------------------------------------ | :--------------------------- |
+|  :--------------------------------------- | :--------------------------------------- |  :--------------------------------------- |
 | - Redes de Datos                    | - Entornos Virtuales de Aprendizaje   | **Desarrolladora** |
 | - Servidores en Plataformas Libres  | - Google Workspace                    |                              |
 | - Servidores en Plataformas Propietarias | - Redes Sociales                      | **Artesana** |
