@@ -3,6 +3,7 @@
 </p>
 
 ## ¡Hola, soy IssaVela_Ingrid! ✨ 
+Bienvenido a mi espacio en GitHub, donde obviamente, trabajamos con 
 
 | Docente de Educación Superior             | Administración de                                | Otros Intereses                           |
 |  :--------------------------------------- | :--------------------------------------- |  :--------------------------------------- |
