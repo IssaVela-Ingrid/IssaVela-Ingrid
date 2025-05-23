@@ -2,19 +2,30 @@
   <img src="Ingrid.jpg" alt="Mi banner de perfil de GitHub" width="100%">
 </p>
 
-# ¡Hola, soy Issa! 👋
+## ¡Hola, soy IssaVela_Ingrid! ✨ 
 
-Docente de Educación Superior (Redes de Datos, Diseño Gráfico Digital, Seguridad Informática y Computación Aplicada), Soporte de Sistemas, Admin de EVA, WS Google, RRSS y DB, Desarrolladora y Artesana
+# Docente de Educación Superior:
+Redes de Datos
+Servidores en Plataformas Libres
+Servidores en Plataformas Propietarias
+Sistemas Operativos Lunux
+Diseño Gráfico Digital
+Lenguaje de Marcado y Estilo
+Seguridad Informática
+Computación Aplicada)
+Soporte de Sistemas
+# Admin de: 
+Entornos Virtuales de Aprendizaje
+Google Workspace
+Redes Sociales
+Bases de Datos
+Servidores Locales
+# Desarrolladora
+# Artesana
+# Turista Local
 
 ## Grados Académicos
 - Técnico en Ingeniería en Computación
 - Licenciada en Computación
 - Maestra en Docencia Universitaria
 
-## Proyectos destacados
-- [Nombre del Proyecto 1](Enlace_al_proyecto_1)
-- [Nombre del Proyecto 2](Enlace_al_proyecto_2)
-
-¡Conéctate conmigo!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/issavela-ingrid)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Issavela_Ingrid)
