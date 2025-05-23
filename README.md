@@ -6,7 +6,7 @@
 
 | Docente de Educación Superior             | Administración de:                                | Otros Intereses                           |
 |  :--------------------------------------- | :--------------------------------------- |  :--------------------------------------- |
-| - Redes de Datos                          | - Entornos Virtuales de Aprendizaje      | - Desarrollo de Aplicaciones Web  PHP, Laravel                   |
+| - Redes de Datos                          | - Entornos Virtuales de Aprendizaje      | - Desarrollo de Aplicaciones Web con PHP, Laravel                   |
 | - Servidores en Plataformas Libres        | - Google Workspace                       |                                           |
 | - Servidores en Plataformas Propietarias  | - Redes Sociales                         | - Artesana                               |
 | - Sistemas Operativos Linux         | - Bases de Datos                      |                              |
