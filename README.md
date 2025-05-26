@@ -27,9 +27,9 @@ Bienvenido a mi espacio en GitHub, donde trabajamos con tecnología, particularm
 
 * **Técnico en Ingeniería en Computación**
 * **Licenciada en Computación**
-* **Maestra en Docencia Universitaria
+* **Maestra en Docencia Universitaria**
 
 ## Proyectos destacados
 - Intervención: La investigación de cátedra como estrategia para el desarrollo de competencias investigativas en la Universidad Dr. Andrés Bello Regional Chalatenango de enero - agosto de 2023.
 - Proyecto: Diseño y creación de una herramienta para la gestión y administración de la entrega de uniformes, zapatos y paquetes escolares de instituciones de educación básica del distrito 0401 del área urbana en el municipio de Chalatenango
-- Proyecto: Propuesta Iniciativa de Desarrollo: Busapp, solución de movilidad urbana con enfoque de género y seguridad física de usuarios en el transporte público.
+- Proyecto: Propuesta Iniciativa de Desarrollo: Busapp, solución de movilidad urbana con enfoque de género y seguridad física de usuarios en el transporte público septiembre 2017.
