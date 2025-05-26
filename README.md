@@ -10,12 +10,12 @@ Bienvenido a mi espacio en GitHub, donde trabajamos con tecnología, particularm
 
 | Docencia en Educación Superior             | Administración de Plataformas                                |Otras Áreas                           |
 |  :--------------------------------------- | :--------------------------------------- |  :--------------------------------------- |
-| - Redes de Datos                          | - Entornos Virtuales de Aprendizaje (Google Classroom, Moodle     | - Desarrollo de Aplicaciones Web con PHP, Laravel                   |
+| - Redes de Datos                          | - Entornos Virtuales de Aprendizaje (Google Classroom, Moodle)     | - Desarrollo de Aplicaciones Web con PHP, Laravel                   |
 | - Servidores en Plataformas Libres        | - Google Workspace                       | - Diseñadora Gráfica Digital                                           |
 | - Servidores en Plataformas Propietarias  | - Redes Sociales                         |  - Soporte de Sistemas    |                             |
-| - Sistemas Operativos Linux         | - Bases de Datos                      |  - Artesana                      |
+| - Sistemas Operativos Linux         | - Bases de Datos                      | - Mantenimiento de Sistemas                       |
 | - Diseño Gráfico Digital            | - Servidores Locales                  | - Turismo Local
-| - Lenguaje de Marcado y Estilo      |                                       |                              |
+| - Lenguaje de Marcado y Estilo      |                                       | - Artesana                             |
 | - Seguridad Informática             |                                       |                              |
 | - Computación Aplicada              |                                       |                              |
 | - Programación               |                                       |                              |
