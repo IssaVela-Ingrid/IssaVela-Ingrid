@@ -2,7 +2,7 @@
   <img src="Ingrid.jpg" alt="Mi banner de perfil de GitHub" width="100%">
 </p>
 
-## ¡Hola, soy IssaVela_Ingrid! ✨ 
+## ¡Hola, soy IssaVela_Ingrid! 🍃🌵☕🧙🏾‍♀️🧶👩🏾‍🏫👩🏾‍💻📷🦸🏾‍♀️🍔🌻✨ 
 Bienvenido a mi espacio en GitHub, donde trabajamos con tecnología, particularmente sobre: Desarrollo de Aplicaciones Web, Configuración de Servidores Linux y Windows, Educación y todo lo que nos agrade.
 
 ## Sobre mi:
