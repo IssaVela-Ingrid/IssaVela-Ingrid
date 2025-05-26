@@ -8,18 +8,18 @@ Bienvenido a mi espacio en GitHub, donde trabajamos con tecnología, particularm
 ## Sobre mi:
 *Trabajo en la enseñanza de tecnología desde 2009 dentro de academías de informática, en 2017 me acredité como facilitadora del desaparecido INSAFORP impartiendo cursos técnicos y en 2019 ingreso formalmente como docente en educación superior manteniendome en este rubro a la fecha, en conjunto desde hace tres años con mi labor como soporte de sistemas, entre otras actividades.*
 
-| Docencia en Educación Superior             | Administración de Plataformas                                |Otras Áres                           |
+| Docencia en Educación Superior             | Administración de Plataformas                                |Otras Áreas                           |
 |  :--------------------------------------- | :--------------------------------------- |  :--------------------------------------- |
 | - Redes de Datos                          | - Entornos Virtuales de Aprendizaje (Google Classroom, Moodle     | - Desarrollo de Aplicaciones Web con PHP, Laravel                   |
 | - Servidores en Plataformas Libres        | - Google Workspace                       | - Diseñadora Gráfica Digital                                           |
-| - Servidores en Plataformas Propietarias  | - Redes Sociales                         |  - Turista Local    |                             |
+| - Servidores en Plataformas Propietarias  | - Redes Sociales                         |  - Soporte de Sistemas    |                             |
 | - Sistemas Operativos Linux         | - Bases de Datos                      |  - Artesana                      |
-| - Diseño Gráfico Digital            | - Servidores Locales                  | 
+| - Diseño Gráfico Digital            | - Servidores Locales                  | - Turismo Local
 | - Lenguaje de Marcado y Estilo      |                                       |                              |
 | - Seguridad Informática             |                                       |                              |
 | - Computación Aplicada              |                                       |                              |
-| - Soporte de Sistemas               |                                       |                              |
-| - Programación                      |                                       |         
+| - Programación               |                                       |                              |
+|                       |                                       |         
 
 ---
 
