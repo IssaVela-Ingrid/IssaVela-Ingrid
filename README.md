@@ -14,10 +14,10 @@ Bienvenido a mi espacio en GitHub, donde trabajamos con tecnología, particularm
 | - Servidores en Plataformas Libres        | - Google Workspace                       | - Diseñadora Gráfica Digital                                           |
 | - Servidores en Plataformas Propietarias  | - Redes Sociales                         |  - Soporte de Sistemas    |                             |
 | - Sistemas Operativos Linux         | - Bases de Datos                      | - Mantenimiento de Sistemas                       |
-| - Diseño Gráfico Digital            | - Servidores Locales                  | - Turismo Local
-| - Lenguaje de Marcado y Estilo      |                                       | - Artesana                             |
-| - Seguridad Informática             |                                       |                              |
-| - Computación Aplicada              |                                       |                              |
+| - Diseño Gráfico Digital            | - Servidores Locales                  | - Fotografía
+| - Lenguaje de Marcado y Estilo      |                                      | - Artesanías y Tejidos                             |
+| - Seguridad Informática             |                                       | - Turismo Local                             |
+| - Computación Aplicada              |                                       |  - Generación de Contenido                            |
 | - Programación               |                                       |                              |
 |                       |                                       |         
 
