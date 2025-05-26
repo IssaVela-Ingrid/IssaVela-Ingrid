@@ -8,7 +8,7 @@ Bienvenido a mi espacio en GitHub, donde trabajamos con tecnología, particularm
 ## Sobre mi:
 *Trabajo en la enseñanza de tecnología desde 2009 dentro de academías de informática. En 2016 me acredité como facilitadora del desaparecido INSAFORP impartiendo cursos técnicos en centros de formación. Para el año 2019 ingreso formalmente como docente en educación superior manteniendome en este rubro hasta la fecha, en conjunto desde hace tres años, con mi labor como soporte de sistemas, entre otras actividades.*
 
-| Docencia en Educación Superior             | Administración de Plataformas                                |Otras Áreas                           |
+| Docencia en Educación Superior             | Administración                            |Otras Áreas                           |
 |  :--------------------------------------- | :--------------------------------------- |  :--------------------------------------- |
 | - Redes de Datos                          | - Entornos Virtuales de Aprendizaje (Google Classroom, Moodle)     | - Desarrollo de Aplicaciones Web con PHP, Laravel                   |
 | - Servidores en Plataformas Libres        | - Google Workspace                       | - Diseñadora Gráfica Digital                                           |
